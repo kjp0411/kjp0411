@@ -39,7 +39,6 @@
 
 ## 📈 GitHub Stats  
 ![Kim Jong Pyo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kjp0411&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kjp0411&theme=radical)  
 
 ---
 
