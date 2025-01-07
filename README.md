@@ -38,12 +38,12 @@
 ---
 
 ## 📈 GitHub Stats  
-![Kim Jong Pyo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaihojun&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaihojun&theme=radical)  
+![Kim Jong Pyo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kjp0411&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kjp0411&theme=radical)  
 
 ---
 
 ## 📫 Contact Me  
-- 📧 **Email:** [kjp0411@example.com](mailto:kjp0411@example.com)  
-- 🌐 **GitHub:** [github.com/kaihojun](https://github.com/kaihojun)  
+- 📧 **Email:** [gimjongpyo0411@hanmail.net](mailto:gimjongpyo0411@hanmail.net)  
+- 🌐 **GitHub:** [github.com/kjp0411](https://github.com/kjp0411)  
 
