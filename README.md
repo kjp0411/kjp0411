@@ -1,24 +1,49 @@
-## KIM JONG PYO
+# 👋 KIM JONG PYO  
 
-## About me
-• 유지보수가 쉬운 SW를 개발하려고 노력해요.
+안녕하세요! 유지보수가 쉬운 소프트웨어를 개발하며, 항상 사용자 중심으로 사고하려고 노력하는 개발자 김종표입니다.  
+새로운 기술을 배우고 적용하며, 지속적으로 성장하는 것을 목표로 하고 있습니다. 🚀  
 
-• 신기술을 적용해보며 항상 성장하려고 노력해요.
+---
 
-• 개발 과정에서 항상 사용자의 입장을 생각해요.
+## 💡 About Me  
+- **유지보수가 쉬운 SW** 개발을 위해 노력합니다.  
+- **신기술**을 적용해보며 끊임없이 성장합니다.  
+- **사용자의 입장**에서 개발하는 것을 중요하게 생각합니다.  
 
-## Career
-handysoft Company(신뢰성 기술팀(QA)) - HANDY Groupware 관리
+---
 
-2023.07. ~ 2023.07.(현장실습 인턴 1개월)
+## 💼 Career  
+- **Handysoft Company (신뢰성 기술팀 QA)**  
+  HANDY Groupware 관리  
+  - 📅 **2023.07. ~ 2023.07.** (현장실습 인턴, 1개월)
 
-## Awards
-• 2024.12. 캡스톤 경진대회 우수상 수상 (AcademicLens)
+---
 
-## Certifications
-• 2023.07. SQLD
-• 2024.06. 정보처리기사
-• 2024.11. ADsP
+## 🏆 Awards  
+- **2024.12.** 캡스톤 경진대회 **우수상** (AcademicLens) 🏅  
 
-## Coding
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjp0411)](https://solved.ac/kjp0411/)
+---
+
+## 📜 Certifications  
+- **2023.07.** SQLD (SQL 개발자 자격증)  
+- **2024.06.** 정보처리기사  
+- **2024.11.** ADsP (데이터 분석 준전문가)  
+
+---
+
+## 🔢 Coding Stats  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjp0411)](https://solved.ac/kjp0411/)  
+백준에서 꾸준히 문제를 풀며 알고리즘 실력을 키워가고 있습니다.  
+
+---
+
+## 📈 GitHub Stats  
+![Kim Jong Pyo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaihojun&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaihojun&theme=radical)  
+
+---
+
+## 📫 Contact Me  
+- 📧 **Email:** [kjp0411@example.com](mailto:kjp0411@example.com)  
+- 🌐 **GitHub:** [github.com/kaihojun](https://github.com/kaihojun)  
+
