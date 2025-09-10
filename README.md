@@ -37,7 +37,6 @@
 
 ## 🔢 Coding Stats  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjp0411)](https://solved.ac/kjp0411/)  
-백준에서 꾸준히 문제를 풀며 알고리즘 실력을 키워가고 있습니다.  
 
 ---
 
