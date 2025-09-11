@@ -41,7 +41,12 @@
 ---
 
 ## 📈 GitHub Stats  
-![Kim Jong Pyo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kjp0411&show_icons=true&theme=radical)  
+![Kim Jong Pyo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kjp0411&show_icons=true&theme=radical)
+
+---
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+</a>
 
 ---
 
