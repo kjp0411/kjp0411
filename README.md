@@ -45,9 +45,11 @@
 
 ---
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/{username}?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/lines/{kjp0411}?pet-id=1" width="1000" height="120"/>
 </a>
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/{kjp0411}"/>
+</a>
 ---
 
 ## 📫 Contact Me  
