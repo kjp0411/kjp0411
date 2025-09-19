@@ -43,16 +43,17 @@
 ## 📈 GitHub Stats
 <div style="display: flex; justify-content: center; align-items: stretch; gap: 20px;">
 
-  <!-- GitAnimals -->
-  <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/kjp0411" height="200"/>
-  </a>
+  <div style="flex:1; display:flex; justify-content:center; align-items:center; background:white; padding:10px;">
+    <a href="https://github.com/devxb/gitanimals">
+      <img src="https://render.gitanimals.org/farms/kjp0411" style="max-height:200px;"/>
+    </a>
+  </div>
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kjp0411&show_icons=true&theme=radical" height="200"/>
-  
+  <div style="flex:1; display:flex; justify-content:center; align-items:center; background:white; padding:10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=kjp0411&show_icons=true&theme=radical" style="max-height:200px;"/>
+  </div>
+
 </div>
-
 ---
 
 ## 📫 Contact Me  
