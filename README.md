@@ -42,15 +42,13 @@
 
 ## 📈 GitHub Stats
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kjp0411&show_icons=true&theme=radical" width="400"/>
+  
   <!-- GitAnimals -->
   <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/farms/kjp0411" width="400"/>
   </a>
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kjp0411&show_icons=true&theme=radical" width="400"/>
-  
 </div>
 
 ---
