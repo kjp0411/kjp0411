@@ -41,15 +41,15 @@
 ---
 
 ## 📈 GitHub Stats
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: stretch; gap: 20px;">
 
   <!-- GitAnimals -->
   <a href="https://github.com/devxb/gitanimals">
-    <img src="https://render.gitanimals.org/farms/kjp0411" width="400"/>
+    <img src="https://render.gitanimals.org/farms/kjp0411" height="200"/>
   </a>
 
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=kjp0411&show_icons=true&theme=radical" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kjp0411&show_icons=true&theme=radical" height="200"/>
   
 </div>
 
