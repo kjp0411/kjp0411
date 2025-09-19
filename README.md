@@ -41,10 +41,18 @@
 ---
 
 ## 📈 GitHub Stats
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{kjp0411}"/>
- ![Kim Jong Pyo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kjp0411&show_icons=true&theme=radical)
-</a>
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+
+  <!-- GitAnimals -->
+  <a href="https://github.com/devxb/gitanimals">
+    <img src="https://render.gitanimals.org/farms/kjp0411" width="400"/>
+  </a>
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=kjp0411&show_icons=true&theme=radical" width="400"/>
+  
+</div>
+
 ---
 
 ## 📫 Contact Me  
