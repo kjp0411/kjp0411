@@ -44,13 +44,15 @@
 <div style="display: flex; justify-content: center; align-items: stretch; gap: 20px;">
 
   <!-- GitAnimals -->
-  <a href="https://github.com/devxb/gitanimals" style="flex:1;">
-    <img src="https://render.gitanimals.org/farms/kjp0411" style="width:100%; height:100%; object-fit:cover;"/>
-  </a>
+  <div style="flex:1; display:flex; justify-content:center; align-items:center;">
+    <a href="https://github.com/devxb/gitanimals">
+      <img src="https://render.gitanimals.org/farms/kjp0411" style="max-width:100%; height:100%;"/>
+    </a>
+  </div>
 
   <!-- GitHub Stats -->
-  <div style="flex:1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=kjp0411&show_icons=true&theme=radical" style="width:100%; height:100%; object-fit:cover;"/>
+  <div style="flex:1; display:flex; justify-content:center; align-items:center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=kjp0411&show_icons=true&theme=radical" style="max-width:100%; height:100%;"/>
   </div>
 
 </div>
