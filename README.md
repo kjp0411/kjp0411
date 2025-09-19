@@ -42,11 +42,10 @@
 
 ## 📈 GitHub Stats  
 ![Kim Jong Pyo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kjp0411&show_icons=true&theme=radical)
-
----
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/{kjp0411}"/>
 </a>
+---
 
 ## 📫 Contact Me  
 - 📧 **Email:** [gimjongpyo0411@hanmail.net](mailto:gimjongpyo0411@hanmail.net)  
