@@ -1,44 +1,21 @@
-# 👋 KIM JONG PYO  
+## 👩🏻‍💻 학력
+- 소프트웨어전공 (Software Engineering)
 
-안녕하세요! 유지보수가 쉬운 소프트웨어를 개발하며, 항상 사용자 중심으로 사고하려고 노력하는 개발자 김종표입니다.  
-새로운 기술을 배우고 적용하며, 지속적으로 성장하는 것을 목표로 하고 있습니다. 🚀  
+## 🏆 수상 경력
+- `2024.12` 캡스톤 경진대회 **우수상** (AcademicLens)  
 
----
+## 🪪 자격증   
+- `2024.11.` ADsP (데이터 분석 준전문가)  
+- `2024.06.` 정보처리기사
+- `2023.07.` SQLD (SQL 개발자 자격증)  
 
-## 💡 About Me  
-- **유지보수가 쉬운 SW** 개발을 위해 노력합니다.  
-- **신기술**을 적용해보며 끊임없이 성장합니다.  
-- **사용자의 입장**에서 개발하는 것을 중요하게 생각합니다.  
-
----
-
-## 💼 Career  
-- **Handysoft Company (신뢰성 기술팀 QA)**  
-  **HANDY Groupware 관리**
-  - 기능 요구사항 분석
-  - 테스트 계획/설계
-  - 테스트 케이스 작성 및 기능 점검 수행
-  - 테스트 결과 정리
-  - 📅 **2023.07. ~ 2023.07.** (현장실습 인턴, 1개월)
-
----
-
-## 🏆 Awards  
-- **2024.12.** 캡스톤 경진대회 **우수상** (AcademicLens) 🏅  
-
----
-
-## 📜 Certifications  
-- **2024.11.** ADsP (데이터 분석 준전문가)  
-- **2024.06.** 정보처리기사
-- **2023.07.** SQLD (SQL 개발자 자격증)  
-
----
-
-## 🔢 Coding Stats  
+## ⌨️ 코딩
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjp0411)](https://solved.ac/kjp0411/)  
 
----
+## 📃 프로젝트
+| 프로젝트명 | 설명 | 깃허브 |
+|------------|------|--------|
+| **🌍AcademicLens** |  국제 저명 학술지 기반 연구동향 분석 시스템 | [완료](https://github.com/kjp0411/AcademicLens) |
 
 ## 📈 GitHub Stats
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
