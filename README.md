@@ -17,6 +17,7 @@
 |------------|------|--------|
 | **🛒SmartSub** |  사용자 구매 이력 기반 정기 구독 시스템 | [완료](https://github.com/kjp0411/smartsub-backend) |
 | **🌍AcademicLens** |  국제 저명 학술지 기반 연구동향 분석 시스템 | [완료](https://github.com/kjp0411/AcademicLens) |
+|**📑ITstagram**|IT 커뮤니티 플랫폼|[완료](https://github.com/kjp0411/ITstagram)|
 
 ## 📈 GitHub Stats
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
